@@ -1,0 +1,54 @@
+/.idea/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+/frontend/youtube-clone-ui/.angular/
+/frontend/youtube-clone-ui/node_modules/
+/frontend/youtube-clone-ui/.editorconfig
+/frontend/youtube-clone-ui/src/assets/
+
+## Maven:
+/backend/.mvn/
+/mvnw
+/backend/mvnw.bat
+/backend/mvnw.cmd
+/backend//log/
+*.log*
+/backend/pom.xml.tag
+/backend/pom.xml.releaseBackup
+/backend/pom.xml.next
+release.properties
+/backend/mvnw
+/backend/src/main/resources/application-local.properties
