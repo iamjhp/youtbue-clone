@@ -33,7 +33,7 @@ export class SaveVideoDetailsComponent {
   add(event: MatChipInputEvent): void {
     const value = (event.value || '').trim();
 
-    // Add our fruit
+    // Add tag
     if (value) {
       this.tags.push(value);
     }
